@@ -172,7 +172,7 @@ that the upstream does not require.
 
 ## Branches
 
-A core has only these branches (Droidtop/tracker#324, the owner, 2026-11-05):
+A core has only these branches (mytop-project/tracker#324, the owner, 2026-11-05):
 
 - `upstream-sync` follows upstream OnscripterYuri (vendored, with our engine changes)
   (`YuriSizuku/OnscripterYuri`). It is updated from upstream's `main` by hand (there is no sync
